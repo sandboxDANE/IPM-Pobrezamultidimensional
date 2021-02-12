@@ -26,14 +26,19 @@ Para Colombia, se adaptaron estas metodologías dependiendo de los insumos y la 
 2. [Piloto DataSandbox](#piloto)
 3. [Conjuntos de datos](#insumos)
 4. [Metodología](#metodología)
-5. [Visualización resultados](#Visualizacion)
+5. [Visualización resultados](#visualizacion)
+
+
+
+
+
 
 
 
 ## Insumos
 ## Metodología
-## visualizacion
-
+## Visualizacion
+[Visor](https://visores.dane.gov.co/visor-nuevo-ipm/)
 
 
 
