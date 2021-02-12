@@ -38,7 +38,7 @@ Para Colombia, se adaptaron estas metodologías dependiendo de los insumos y la 
 ## Insumos
 ## Metodología
 ## Visualizacion
-[Visor](https://visores.dane.gov.co/visor-nuevo-ipm/)
+[Enlace para ver los resultados en el visor ](https://visores.dane.gov.co/visor-nuevo-ipm/)
 
 
 
