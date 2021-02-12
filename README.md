@@ -26,7 +26,7 @@ Para Colombia, se adaptaron estas metodologías dependiendo de los insumos y la 
 2. [Piloto DataSandbox](#piloto)
 3. [Conjuntos de datos](#insumos)
 4. [Metodología](#metodología)
-5. [Visualización resultados](#visualizacion)
+5. [Visualización resultados](#Visualizacion)
 
 
 
