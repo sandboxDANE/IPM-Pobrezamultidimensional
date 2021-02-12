@@ -1,4 +1,4 @@
-![DANELOGO](Figuras/dane_logo.PNG)
+![DANELOGO](Figuras/Logo-DANE-color-2019.jpg)
 # Estimación Pobreza multidimensional 
 ## Introducción
 
