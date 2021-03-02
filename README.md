@@ -23,8 +23,12 @@ Para Colombia, se adaptaron estas metodologías dependiendo de los insumos y la 
 ## Contenido
 
 1. [Resumen](#introducción) 
-A pesar  de todas las cualidades con las que cuenta el CNPV 2018, dicha operación no consigue aportar información del fenómeno de pobreza multidimensional en gran parte del territorio. Adicionalmente, el siguiente gráfico muestra la distribición territorial del  IMP censal:<img src="Figuras/OBSERVED_municipality_IPM_26_01_2021.png">
+A pesar  de todas las cualidades con las que cuenta el CNPV 2018, dicha operación no consigue aportar información del fenómeno de pobreza multidimensional en gran parte del territorio. Adicionalmente, el siguiente gráfico muestra la distribición territorial del  IMP censal:
+
+<img src="Figuras/OBSERVED_municipality_IPM_26_01_2021.png">
+
 El desafio, se centra en encontrar un estimación para las zonas en donde la información censal tiene falencias, el siguiente gráfico muestra la magnitud del desafio:
+
 <img src="Figuras/CEROS_municipality_IPM_26_01_2021.png"> 
 
 Los resultados del IPM censal solo son posibles en años en donde se realicen censos. Por tanto, este ejercicio  consiste en determinar una medición de estas zonas para el año 2018.
