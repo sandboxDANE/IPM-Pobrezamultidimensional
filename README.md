@@ -23,8 +23,7 @@ Para Colombia, se adaptaron estas metodologías dependiendo de los insumos y la 
 ## Contenido
 
 1. [Resumen](#introducción)
-[Transfer_learning](Figuras/Transfer learning.png)
-
+<img src="/Figuras/Transfer learning.PNG" width="706" height="195">
 3. [Piloto DataSandbox](#piloto)
 4. [Conjuntos de datos](#insumos)
 5. [Metodología](https://www.dane.gov.co/files/investigaciones/experimentales/ipm/IPM-documento-metodologico.pdf)
