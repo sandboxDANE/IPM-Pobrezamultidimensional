@@ -23,7 +23,7 @@ Para Colombia, se adaptaron estas metodologías dependiendo de los insumos y la 
 ## Contenido
 
 1. [Resumen](#introducción)
-![Transfer_learning](Figuras/Transfer learning.png)
+[Transfer_learning](Figuras/Transfer learning.png)
 
 3. [Piloto DataSandbox](#piloto)
 4. [Conjuntos de datos](#insumos)
