@@ -41,7 +41,7 @@ Donde la fase 3 es ejecutada en la plataforma [DataSanbox](https://sandbox.datos
 4. [Conjuntos de datos:](#insumos) Se usarón insumos censales, marco geostadítistico nacional, imágenes satelitales y covariados extraidos de las mismas. Sin embargo, en esta plataforma solo se comparten bases alfanúmericas.    
 
 5. [Metodología:](#Metodología) En el siguiente enlace podra descargar el documento metodológico:  [metodogía](https://www.dane.gov.co/files/investigaciones/experimentales/ipm/IPM-documento-metodologico.pdf)
-6. [Visualización resultados:](#visualizacion) Producto del análisis, se obtiene una distribución del IPM para todo el territorio nacional, es siguiente gráfico muestra el comportamiento del IPM predicho usando solo información de las imágenes satelitales:
+6. [Visualización resultados:](#visualizacion) Producto del análisis, se obtiene una distribución del IPM para todo el territorio nacional, el siguiente gráfico muestra el comportamiento del IPM predicho usando solo información de las imágenes satelitales:
 <img src="Figuras/ipm_Directas_GBTR_v2_26_01_2021.png"> 
 
 [Enlace para ver los resultados en el visor ](https://visores.dane.gov.co/visor-nuevo-ipm/)
