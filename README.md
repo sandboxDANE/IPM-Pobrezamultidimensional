@@ -25,7 +25,7 @@ Para Colombia, se adaptaron estas metodologías dependiendo de los insumos y la 
 1. [Resumen](#introducción)
 2. [Piloto DataSandbox](#piloto)
 3. [Conjuntos de datos](#insumos)
-4. [Metodología](#metodología)
+4. [Metodología](#metodología https://www.dane.gov.co/files/investigaciones/experimentales/ipm/IPM-documento-metodologico.pdf)
 5. [Visualización resultados](#visualizacion)
 
 
