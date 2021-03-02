@@ -22,12 +22,14 @@ Para Colombia, se adaptaron estas metodologías dependiendo de los insumos y la 
 
 ## Contenido
 
-1. [Resumen](#introducción) <img src="/Figuras/Transfer learning.PNG">
+1. [Resumen](#introducción)<img src="/Figuras/Transfer learning.PNG"><img src="/Figuras/ipm_Directas_GBTR_v2_26_01_2021.png"> 
 
-3. [Piloto DataSandbox](#piloto)
+3. [Piloto DataSandbox](#piloto) Este piloto consiste en un ejercicio experimental para obtener predicciones del IPM usando información no tradicional. A pesar  de todas las cualidades con las que cuenta el CNPV 2018, dicha operación no consigue aportar información del fenómeno de pobreza multidimensional en gran parte del territorio. Adicionalmente, los resultados del IPM censal solo son posibles en años en donde se realicen censos. Por tanto, este ejercicio  consiste en determinar una medición de estas zonas para el año 2018.  Esta sección presenta un proyecto piloto en el cual se desarrolló al final un visor  para visualización de las diferentes oredicciones del IPM. Las fases de esta implementación se resumen en el siguiente gráfico:<img src="/Figuras/Transfer learning.PNG">  
+
+Este ejercicio consta de cinco etapas principales (como se muestra en la figura a continuación) las cuales son: ingesta de datos, modelado, almacenamiento, procesamiento y visualización.
 4. [Conjuntos de datos](#insumos)
 5. [Metodología](https://www.dane.gov.co/files/investigaciones/experimentales/ipm/IPM-documento-metodologico.pdf)
-6. [Visualización resultados](#visualizacion)
+6. [Visualización resultados](#visualizacion) 
 
 
 
