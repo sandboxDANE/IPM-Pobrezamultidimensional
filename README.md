@@ -38,7 +38,7 @@ Este piloto consiste en un ejercicio experimental para obtener predicciones del 
 
 4. [Conjuntos de datos](#insumos) Se usarón insumos censales, marco geostadítistico nacional, imágenes satelitales y covariados extraidos de las mismas. Sin embargo, en esta plataforma solo se comparten bases alfanúmericas.    
 
-5. [Metodología](https://www.dane.gov.co/files/investigaciones/experimentales/ipm/IPM-documento-metodologico.pdf)
+5. [Metodología](#Metodología) [Enlace para ver la metodogía ](https://www.dane.gov.co/files/investigaciones/experimentales/ipm/IPM-documento-metodologico.pdf)
 6. [Visualización resultados](#visualizacion) Producto del análisis, se obtiene una distribución del IPM para todo el territorio nacional, es siguiente gráfico muestra el comportamiento del IPM predicho usando solo información de las imágenes satelitales:
 <img src="Figuras/ipm_Directas_GBTR_v2_26_01_2021.png"> 
 
