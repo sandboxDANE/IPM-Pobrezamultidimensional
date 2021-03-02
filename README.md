@@ -22,7 +22,7 @@ Para Colombia, se adaptaron estas metodologías dependiendo de los insumos y la 
 
 ## Contenido
 
-1. [Resumen](#introducción) 
+1. [Resumen:](#introducción) 
 A pesar  de todas las cualidades con las que cuenta el CNPV 2018, dicha operación no consigue aportar información del fenómeno de pobreza multidimensional en gran parte del territorio. Adicionalmente, el siguiente gráfico muestra la distribición territorial del  IMP censal:
 
 <img src="Figuras/OBSERVED_municipality_IPM_26_01_2021.png">
@@ -33,13 +33,13 @@ El desafio, se centra en encontrar un estimación para las zonas en donde la inf
 
 Los resultados del IPM censal solo son posibles en años en donde se realicen censos. Por tanto, este ejercicio  consiste en determinar una medición de estas zonas para el año 2018.
 
-3. [Piloto DataSandbox](#piloto) 
+3. [Piloto DataSandbox:](#piloto) 
 Este piloto consiste en un ejercicio experimental para obtener predicciones del IPM usando información no tradicional.  Esta sección presenta un proyecto piloto en el cual se desarrolló al final un visor   de las diferentes predicciones del IPM. Las fases de esta implementación se resumen en el siguiente gráfico:<img src="/Figuras/Transfer learning.PNG">  
 
-4. [Conjuntos de datos](#insumos) Se usarón insumos censales, marco geostadítistico nacional, imágenes satelitales y covariados extraidos de las mismas. Sin embargo, en esta plataforma solo se comparten bases alfanúmericas.    
+4. [Conjuntos de datos:](#insumos) Se usarón insumos censales, marco geostadítistico nacional, imágenes satelitales y covariados extraidos de las mismas. Sin embargo, en esta plataforma solo se comparten bases alfanúmericas.    
 
-5. [Metodología](#Metodología) [Enlace para ver la metodogía ](https://www.dane.gov.co/files/investigaciones/experimentales/ipm/IPM-documento-metodologico.pdf)
-6. [Visualización resultados](#visualizacion) Producto del análisis, se obtiene una distribución del IPM para todo el territorio nacional, es siguiente gráfico muestra el comportamiento del IPM predicho usando solo información de las imágenes satelitales:
+5. [Metodología:](#Metodología) [Enlace para ver la metodogía ](https://www.dane.gov.co/files/investigaciones/experimentales/ipm/IPM-documento-metodologico.pdf)
+6. [Visualización resultados:](#visualizacion) Producto del análisis, se obtiene una distribución del IPM para todo el territorio nacional, es siguiente gráfico muestra el comportamiento del IPM predicho usando solo información de las imágenes satelitales:
 <img src="Figuras/ipm_Directas_GBTR_v2_26_01_2021.png"> 
 
 [Enlace para ver los resultados en el visor ](https://visores.dane.gov.co/visor-nuevo-ipm/)
