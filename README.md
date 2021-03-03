@@ -56,6 +56,6 @@ Donde la fase 3 es ejecutada en la plataforma [DataSanbox](https://sandbox.datos
 
 Equipo IPM - DANE
 
-Alejandro Arias.
-Glenn Amaya.
-Sebastián Oviedo.
+Alejandro Arias - laariasv@dane.gov.co
+Glenn Amaya - ghamayac@gmail.com
+Sebastián Oviedo - jsoviedom@unal.edu.co
